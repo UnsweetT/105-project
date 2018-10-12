@@ -8,6 +8,7 @@ section p {
 	color: #0000ff;
 }
 section h1 {
+	/* this is a comment */ 
 	font: 32px 'Open Sans';
 	font-weight: bold;
 }
